@@ -1,0 +1,9 @@
+<suite name="Learning testNg">
+<test name="qcdrunner">
+<classes>
+<class name="Testcase.Annotation"/>
+</classes>
+
+</test>
+
+</suite>
